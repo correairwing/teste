@@ -40,8 +40,8 @@ Siga os passos abaixo para rodar o projeto em uma nova máquina:
 Clone este repositório para a sua máquina:
 
 ```bash
-git clone <url-do-repositorio>
-cd docker-php-mysql-react
+git clone <[url-do-repositorio](https://github.com/correairwing/teste)>
+cd teste
 ```
 
 ### 2. Build e Inicialização do Projeto
